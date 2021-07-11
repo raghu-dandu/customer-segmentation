@@ -7,9 +7,9 @@
 * [Setup](#setup)
 
 ## Project info
- Customer segmentation helps the Telcos to segment the customer on interests and opinion about products, services and new launches. This will greatly helps the Telcos to plan their campaigns and improvement to services.
+ Customer segmentation helps the Telcos to segment the customers based on interests and opinion about products, services and new launches. This will greatly helps the Telcos to plan their campaigns and improvement to services.
 
- This project uses customer tweets labelled with sentiments(Positive / Negative / Neutral) based on their tweets (please see sentiment-analysis repository), and segment / cluster the customers based on tweets into n clusters.
+ This project uses customer tweets labelled with sentiments(Positive / Negative / Neutral) (please see sentiment-analysis repository), and segment / cluster the customers based on tweets into n clusters.
  
  Predicts segment / cluster for new customers based on tweets
 	
@@ -23,7 +23,7 @@
 * Twitter Dataset from 5 Telcos
 * Size: 1.5 GB ( 300 MB approx from each Telco)
 * Tweets: 5 million (1 million from each Telco)
-* Dataset folder has only sample of data (10K tweets) 
+* Dataset folder has only sample of data (100K tweets) 
 
 
 ## Setup
